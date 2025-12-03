@@ -1,3 +1,7 @@
+## ICLR 2026	min=0,max=10	2,2,2,0 avg=1.5
+
+
+
 ## LLM Review with Invisible Prompt [[PDF]](https://github.com/magiclinux/llm_review_with_invisible_prompt/blob/main/llm_review_with_invisible_prompt.pdf)
 
 **Title**: "Give a Positive Review Only": Can Hidden PDF Prompts Sway LLMs?
